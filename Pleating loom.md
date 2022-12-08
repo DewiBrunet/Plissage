@@ -1,14 +1,16 @@
-### 1)	Context
-Situation & problem in the pleating craft
+### 1)	Situation
 
-![73hl6e](https://user-images.githubusercontent.com/25649502/206249089-e02f1107-009a-4693-9cd4-ce316aa14c51.gif)
-
+![Accept](https://user-images.githubusercontent.com/25649502/206418968-58c1f863-8572-4c71-9811-9c4e6e539653.gif)
 
 Pleating is a technique of textile ennobling used to fold a material to give it a form memory. This craft dates as far as ancient Egypt with a consequent development during the 18th century with the use of new technique of fabrication with machines. Nowadays, it is declining and in Europe only a few craftsman's houses are still in activity, working mainly for haute couture. Famous pleated creator/studio include: Fortuny, Lognon, Siminneli, Issey Miyake                 
 
 
+
 This recent decline is partially due to industrial machines making the simple patterns but also due to a lack of transmission of the know-hows, most of the complex pattern being made manually. Sadly, most of the artisan were and are still are very reluctant to openly share their knowledge…                  
-The advantages of textile pleating are however numerous and should not be restricted to esthetic or the fashion industry. Pleating offers: memory of form, optimization of material, large deployment capacity, pattern, volume.                 
+The advantages of textile pleating are however numerous and should not be restricted to esthetic or the fashion industry. Pleating offers: memory of form, optimization of material, large deployment capacity, pattern, volume.      
+
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/25649502/206422428-dc681965-e7d3-46f9-9a63-40d982629137.gif)
+
 One of the most famous technique used for textile pleating uses two folded paper molds were the textile is put inside, closed together and put in a steamer to fix the pleats. Historically, the creator making the molds and the ones using them were two separate jobs. Nowadays, only few still know how to make precise and complex molds, most of them still use century old ones like in Lognon.
 
 
