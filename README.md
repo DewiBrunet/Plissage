@@ -11,12 +11,14 @@ Pleating is a technique to apply folds to a textile. This craft dates as far as 
  
 Unfortunately, this unique craft is declining and in Europe only a few craftsman's houses are still in activity, working mainly for haute couture. This recent decline is partially due to industrial machines making the simple patterns but also due to a lack of transmission of the know-hows. Sadly, many artisans are very reluctant to openly share their knowledge making it difficult to learn and develop pleating.<br />   
 The advantages of textile pleating are however numerous and should not be restricted to aesthetic or the fashion industry. Pleating offers: memory of form, optimisation of material, large deployment capacity, patterns, volume. 
-<img align="right" src="https://user-images.githubusercontent.com/25649502/208252565-5455d4d2-3f5b-48b8-afb1-7e43c01c300b.gif" alt="alt text" width="300" height="180">
+
 
                                           
  <br />   
-
-**Could it be possible to rediscover this (almost) lost heritage and modernise it?**
+                   
+**How to learn pleating when no info can be found on internet and only few specialists accept to share their knowledge?                 
+How to practice pleating with the difficulty to find the right tools?                 
+Is it possible to rediscover this lost heritage and modernize it?** <img align="right" src="https://user-images.githubusercontent.com/25649502/208252565-5455d4d2-3f5b-48b8-afb1-7e43c01c300b.gif" alt="alt text" width="300" height="180"> 
 
 A few creators tend to tackle this challenge, like [Samira Boon](https://samiraboon.com/home/) working in the [Textiellab](https://textielmuseum.nl/en/textiellab-for-professionals/) of Tilburg. She explores new methods for textile pleating with industrial looms.
 As an artist specialised in folding and autodidact practitioner of textile pleating, I also want to propose solutions. I have been learning technological skills in the fablab [OpenFab](https://openfab.be/) in Brussels for a few years. I have the intuition that the machines found it these places could help it this process (laser cutter, 3D printer, CNC…). Rather than opposing machine vs handmade creations, I want to propose a way to empower future pleat artisans by creating and sharing opensource low-tech tools made in fablabs. 
