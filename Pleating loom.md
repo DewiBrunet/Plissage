@@ -108,7 +108,8 @@ Making the folding loom with a CNC to avoid burn and control the angle and adapt
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\<br/>
 //////////////////////////////////////////////////////////////////////////////////<br/>
 This documentation was made possible thanks to the brussels fablab network.<br/>
-Dewi Brunet explored further his prototype and documented them at the Microfactory & Cityfab3 during his residency in novembre 2022.<br/> 
+Dewi Brunet explored further his prototype and documented them at the Microfactory & Cityfab3 during his residency in novembre 2022.<br/> <br/> 
+
 <img align="left" src="https://user-images.githubusercontent.com/25649502/208513030-867f32c1-ec53-4618-9ecb-6393f69e5dfe.svg" alt="alt text" width="100" height="50">
 <img align="left" src="https://user-images.githubusercontent.com/25649502/208513066-1de04fab-90ac-473f-b027-4555992bb103.png" alt="alt text" width="50" height="50">
 <img align="left" src="https://user-images.githubusercontent.com/25649502/208512952-725c6404-5a14-44eb-9d15-d71dbd593592.png" alt="alt text" width="80" height="30">
