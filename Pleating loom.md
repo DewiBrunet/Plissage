@@ -22,13 +22,14 @@ The folding loom consists of a wooden plate engraved by a laser with a specific 
 For this you will need :
 - 1 thin plank of wood
 - A laser-cutting machine (go to your local fablab for this)
-- This file
-
-[Fichier Matrices.pdf](https://github.com/DewiBrunet/Plissage/files/10178526/Fichier.Matrices.pdf)
+- One of these files (small, medium and large pattern)<br/> 
+[FoldingLoom pattern_18x26cm.pdf](https://github.com/DewiBrunet/Plissage/files/10325170/FoldingLoom.pattern_18x26cm.pdf)<br/> 
+[FoldingLoom pattern_26x34cm.pdf](https://github.com/DewiBrunet/Plissage/files/10325169/FoldingLoom.pattern_26x34cm.pdf)<br/> 
+[FoldingLoom pattern_60x120.pdf](https://github.com/DewiBrunet/Plissage/files/10325168/FoldingLoom.pattern_60x120.pdf)<br/> 
 
 Recommendation :
 - Thickness : 2 to 4mm
-- Size : I provide a large ….x…cm and a small …x… cm …. but feel free to modify or create your own
+- Size : I provided 3 size but feel free to modify or create your own. Black lines is for engraving, red for cutting.
 - Type of wood : poplar (easy to engrave) or meranti (very strong) or other
 - Laser settings : power and speed will depend on the machine and the material you use… I recommend to slightly offset the focal to have a wider line, +/- 1mm is good, depending on your embossing tool (! Make sure to have sufficient ventilation, if the focal is lower it could create more fumes closer to the lens that could damage it). Make a few try before engraving the pattern.
 <br/> 
